@@ -90,14 +90,12 @@ Mentor is a modern, feature-rich note-taking application inspired by tools like 
 - React with TypeScript
 - Material-UI for components
 - Redux for state management
-- Socket.IO client for real-time features
 
 ### Backend
 - Node.js with Express
 - TypeScript for type safety
 - MongoDB for data storage
 - JWT for authentication
-- Socket.IO for real-time communication
 
 ### Infrastructure
 - AWS S3 for file storage
