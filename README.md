@@ -3,9 +3,9 @@
   <p><strong>A powerful block-based note-taking and knowledge management platform</strong></p>
 </div>
 
-## 🚀 Overview
+## 🚀 A Social Ninja Overview
 
-Mentor is a modern, feature-rich note-taking application inspired by tools like Notion and Obsidian. It provides a flexible block-based editor with file management, and AI-powered content generation.
+Ai-SocialNinjaScroll is a modern, feature-rich note-taking application inspired by tools like Notion and Obsidian. It provides a flexible block-based editor with file management, and AI-powered content generation.
 
 <div align="center">
   <img src="/assets/home.png" alt="Mentor Home" width="800"><hr>
@@ -116,7 +116,7 @@ Mentor is a modern, feature-rich note-taking application inspired by tools like 
 
 1. Clone the repository
 ```bash
-git clone https://github.com/uknes/Mentor.git
+git clone https://github.com/uknes/Ai-SocialNinjaScroll.git
 cd Mentor
 ```
 
