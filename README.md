@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="/assets/mentor.png" alt="Mentor Logo" width="200">
+
   <p><strong>A powerful block-based note-taking and knowledge management platform</strong></p>
 </div>
 
